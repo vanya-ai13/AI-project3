@@ -1,0 +1,16 @@
+job_role,skills
+Data Scientist,Python,Machine Learning,Statistics,Data Analysis,Pandas,NumPy,Scikit-learn,Data Visualization
+DevOps Engineer,Linux,Docker,Kubernetes,CI/CD,Ansible,Terraform,Shell Scripting,Cloud Computing
+Backend Developer,Python,Java,REST APIs,SQL,Node.js,PostgreSQL,Microservices,System Design
+Cloud Architect,AWS,Azure,GCP,Cloud Computing,Terraform,Infrastructure as Code,Networking,Security
+ML Engineer,Python,Machine Learning,Deep Learning,TensorFlow,PyTorch,MLOps,Docker,Data Pipelines
+Frontend Developer,JavaScript,React,CSS,HTML,TypeScript,Web Design,UI/UX,Webpack
+Site Reliability Engineer,Linux,Monitoring,Kubernetes,Incident Management,Python,Automation,Cloud Computing,Shell Scripting
+Data Engineer,Python,Apache Spark,SQL,ETL,Kafka,Data Pipelines,Airflow,Cloud Computing
+Security Engineer,Cybersecurity,Penetration Testing,Networking,Linux,Python,Encryption,Incident Response,Compliance
+Mobile Developer,Swift,Kotlin,iOS,Android,React Native,UI/UX,REST APIs,Mobile Design
+QA Automation Engineer,Selenium,Python,Test Automation,CI/CD,Java,Pytest,Automation,API Testing
+Product Manager,Agile,Roadmapping,Stakeholder Management,Data Analysis,SQL,User Research,Product Strategy,Communication
+Full Stack Developer,JavaScript,React,Node.js,SQL,REST APIs,Python,Docker,HTML
+Database Administrator,SQL,PostgreSQL,MySQL,MongoDB,Performance Tuning,Backup and Recovery,Data Modeling,Linux
+Solutions Architect,System Design,AWS,Microservices,Cloud Computing,Networking,Security,REST APIs,Technical Leadership
